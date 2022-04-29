@@ -1,0 +1,90 @@
+body{
+    background-color: rgba(0, 0, 0, 0.246);
+}
+img{
+    border-radius: 20%;
+    height: 10rem;
+    position: relative;
+    align-items: center;
+    
+}
+.cabeca{
+    display: flex;
+    position: relative;
+   gap: 1rem;
+   left: 50rem;
+    /* left: 8rem;
+    top: 2rem; */
+}
+.listasstyle{
+    text-align: center;
+    left: 10rem;
+    background-color: rgba(0, 0, 0, 0.411);
+    height: 24rem;
+    width: 20rem;
+    border-width: 0.1rem;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    border-radius: 15%;
+    left: 45rem;
+}
+.listasstyleposition{
+    position: relative;
+    left: 13rem;
+    top: -21rem;
+    left: 48rem;
+
+}
+.fine_art{
+    position: relative;
+    top: -10rem;
+}
+.oqéfotografia{
+    position: relative;
+    top: -10rem;
+}
+.camerasinicial{
+        position: relative;
+        top: -10rem;
+}
+.cameras{
+    position: relative;
+    top:-85rem;
+    left: 48rem;
+}
+.fine_art{
+    text-align: center;
+    left: 10rem;
+    background-color: rgba(0, 0, 0, 0.411);
+    height: 30rem;
+    width: 20rem;
+    border-width: 0.1rem;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    border-radius: 15%;
+    left: 24rem;
+    top: -36.5rem;
+
+}
+.inicio{
+    position: relative;
+    left: 40rem;
+}
+.oqéfotografia{
+    
+        text-align: center;
+        left: 10rem;
+        background-color: rgba(0, 0, 0, 0.411);
+        height: 24rem;
+        width: 20rem;
+        border-width: 0.1rem;
+        border-style: solid;
+        border-color: black;
+        position: relative;
+        border-radius: 15%;
+        left: 66rem;
+        top:-66.5rem
+    
+}
