@@ -16,6 +16,9 @@ img{
     width: 7rem;
     border-radius: 20%;
 }
+h1{
+    margin-left: 20%;
+}
 .cabeca{
     display: flex;
     gap: 0.5rem;
