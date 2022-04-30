@@ -61,7 +61,22 @@ ol{
 }
 @media (max-width:1160px) {
     .parte2{
-        
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+    }
+    .parte2 div{
+        width: 50%;
+    }
+}
+@media (max-width:790px) {
+    .parte2 div{
+        width: 60%;
+    }
+}
+@media (max-width:460px) {
+    .parte2 div{
+        width: 70%;
     }
     
 }
